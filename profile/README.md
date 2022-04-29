@@ -1,6 +1,4 @@
-
-<img src="MFR_Logo-negativ.png" alt="logo" width="200" float="right"/>
-
+##Mainfranken Racing e.V. ![logo][MFR_Logo-negativ.png]
 
 ## Who we are
 
