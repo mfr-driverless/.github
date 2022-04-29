@@ -20,7 +20,7 @@ This season we made the switch to build a race car that drives autonomously. <br
 <img src="heart-pulse-line.png" align="left" width="15"/> Work processes of a company are recreated. 
 
 ## Formula Student
-<img src="formula-student.jpg" width="200"/>
+<img src="formula-student.jpg"/>
 
 
 
