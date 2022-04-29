@@ -1,6 +1,7 @@
 <img src="MFR_Logo-negativ.png" align="right" width="200"/>
 
 # Mainfranken Racing e.V.  
+<img src="MF13.jpg" width="400"/>
 
 ## Who we are
 <img src="helm.jpg" align="left" width="150"/><br/><br/><br/>
