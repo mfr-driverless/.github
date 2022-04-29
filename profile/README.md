@@ -1,5 +1,5 @@
 
-![Logo](MFR_Logo-negativ.png)
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 
 ## Who we are
