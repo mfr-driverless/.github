@@ -1,5 +1,5 @@
 
-<img src="MFR_Logo-negativ.png" alt="logo" width="200" style="float: right;"/>
+<img src="MFR_Logo-negativ.png" alt="logo" width="200" float="right"/>
 
 
 ## Who we are
