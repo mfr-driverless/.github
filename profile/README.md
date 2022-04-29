@@ -1,5 +1,5 @@
 
-![Logo](MFR_Logo - negativ.png)
+![Logo](MFR_Logo-negativ.png)
 
 
 ## Who we are
