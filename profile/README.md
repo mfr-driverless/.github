@@ -52,3 +52,4 @@ Formula Student is a design competition in which students compete with a formula
 | **Static Events** | **Dynamic Events** |
 | ------------- | -------------- |
 | <table border="0"><tr> <th> Acceleration: </th> <th>75 points</th> </tr><tr> <th>Skid Pad: </th> <th>75 points</th> </tr><tr><th>Autocross: </th> <th>100 points</th> </tr><tr> <th>Trackdrive: </th> <th>200 points</th> </tr><tr><th>Efficiency: </th> <th>75 points</th> </tr></table> | <table border="0"> <tr> <th>Business Plan Presentation: </th> <th> 75 points</th> </tr><tr> <th>Cost and Manufactoring: </th> <th> 100 points</th> </tr> <tr> <th>Engineering Design: </th> <th> 300 points</th> </tr> <table/>
+Overall: 1000 Points
