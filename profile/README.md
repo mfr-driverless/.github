@@ -38,12 +38,12 @@ Formula Student is a design competition in which students compete with a formula
         <th> Skidpad </th>
         <th> Autocross & Trackdrive </th></tr>
     <tr> 
-        <td> <img src="Acceleration.PNG" width="266"/> </td>
-        <td> <img src="Skidpad.PNG"  width="266"/> </td>
-        <td> <img src="Trackdrive.PNG" width="266"/> </td> 
+        <td> <img src="Acceleration.PNG" width="270"/> </td>
+        <td> <img src="Skidpad.PNG"  width="270"/> </td>
+        <td> <img src="Trackdrive.PNG" width="270"/> </td> 
     </tr>
     <tr> 
-        <td width="280"> The acceleration of the vehicle is measured on a 75-metre-long straight. </td>
-        <td width="280"> The racing cars drives through a course  </br> bordered by pylons in the form of an eight. Two laps are driven, in the second the time is measured. </td>
-        <td width="280"> The autocross and trackdrive disciplines use the same track. </br>  <b>Trackdrive:</b> The racing car drives through the same, unknown track several times/ 10 laps. </br> <b>Autocross:</b> The vehicle drives through an approx. 1 kilometer long track with straights, curves and chicanes. The aim is to achieve a fast lap time. Exceeding the track boundary (= knocking over a pylon) is also penalized here with a time penalty. </td> </tr>
+        <td width="300"> The acceleration of the vehicle is measured on a 75-metre-long straight. </td>
+        <td width="300"> The racing cars drives through a course  </br> bordered by pylons in the form of an eight. Two laps are driven, in the second the time is measured. </td>
+        <td width="300"> The autocross and trackdrive disciplines use the same track. </br>  <b>Trackdrive:</b> The racing car drives through the same, unknown track several times/ 10 laps. </br> <b>Autocross:</b> The vehicle drives through an approx. 1 kilometer long track with straights, curves and chicanes. The aim is to achieve a fast lap time. Exceeding the track boundary (= knocking over a pylon) is also penalized here with a time penalty. </td> </tr>
 </table>
