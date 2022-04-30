@@ -49,8 +49,11 @@ Formula Student is a design competition in which students compete with a formula
 </table>
 
 ### Scoring
-| **Static Events** | **Dynamic Events** |
-| ------------- | -------------- |
-| <table border="0"><tr> <th> Acceleration: </th> <th>75 points</th> </tr><tr> <th>Skid Pad: </th> <th>75 points</th> </tr><tr><th>Autocross: </th> <th>100 points</th> </tr><tr> <th>Trackdrive: </th> <th>200 points</th> </tr><tr><th>Efficiency: </th> <th>75 points</th> </tr></table> | <table border="0"> <tr> <th>Business Plan Presentation: </th> <th> 75 points</th> </tr><tr> <th>Cost and Manufactoring: </th> <th> 100 points</th> </tr> <tr> <th>Engineering Design: </th> <th> 300 points</th> </tr> <table/>|
-    
-Overall: 1000 Points
+<table  border="0" align="center">
+    <th> Dynamic Events:</th>
+    <th> Static Events:</th>
+ <tr>
+ <td><table border="0"><tr> <td> Acceleration: </td> <td>75 points</td> </tr><tr> <td>Skid Pad: </td> <td>75 points</td> </tr><tr><td>Autocross: </td> <td>100 points</td> </tr><tr> <td>Trackdrive: </td> <td>200 points</td> </tr><tr><td>Efficiency: </td> <td>75 points</td> </tr></table> </td>
+ <td>
+ <table border="0"> <tr> <td>Business Plan Presentation: </td> <td> 75 points</td> </tr><tr> <td>Cost and Manufactoring: </td> <td> 100 points</td> </tr> <tr> <td>Engineering Design: </td> <td> 300 points</td> </tr> <table/></td></tr></table>    
+ 
