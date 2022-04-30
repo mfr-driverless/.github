@@ -55,5 +55,7 @@ Formula Student is a design competition in which students compete with a formula
  <tr>
  <td><table border="0"><tr> <td> Acceleration: </td> <td>75 points</td> </tr><tr> <td>Skid Pad: </td> <td>75 points</td> </tr><tr><td>Autocross: </td> <td>100 points</td> </tr><tr> <td>Trackdrive: </td> <td>200 points</td> </tr><tr><td>Efficiency: </td> <td>75 points</td> </tr></table> </td>
  <td>
- <table border="0"> <tr> <td>Business Plan Presentation: </td> <td> 75 points</td> </tr><tr> <td>Cost and Manufactoring: </td> <td> 100 points</td> </tr> <tr> <td>Engineering Design: </td> <td> 300 points</td> </tr> <table/></td></tr></table>    
+ <table border="0"> <tr> <td>Business Plan Presentation: </td> <td> 75 points</td> </tr><tr> <td>Cost and Manufactoring: </td> <td> 100 points</td> </tr> <tr> <td>Engineering Design: </td> <td> 300 points</td> </tr> <table/></td></tr></table>  </table>
+ 
+ <p align="center"> Overall: 1000 points </p>
  
