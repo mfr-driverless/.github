@@ -35,6 +35,6 @@ Formula Student is a design competition in which students compete with a formula
 
 
 | Acceleration | Skidpad | Autocross & Trackdrive |
-| :-------: | :-----------: | :------------------:|
+| :-------: | :-----------: | :------------------|
 | ![Acceleration](Acceleration.PNG) | ![Skidpad](Skidpad.PNG) | ![Trackdrive](Trackdrive.PNG) | 
-|                  |             |     |
+| The acceleration of the vehicle is measured on a 75-metre-long straight. | The racing cars drives through a course bordered by pylons in the form of an eight. Two laps are driven, in the second the time is measured. | The autocross and trackdrive disciplines use the same track.<br /> **Trackdrive:** The racing car drives through the same, unknown track several times/ 10 laps.<br /> **Autocross:** The vehicle drives through an approx. 1 kilometer long track with straights, curves and chicanes. The aim is to achieve a fast lap time. Exceeding the track boundary (= knocking over a pylon) is also penalized here with a time penalty.|
