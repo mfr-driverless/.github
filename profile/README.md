@@ -31,3 +31,10 @@ Formula Student is a design competition in which students compete with a formula
 
 
 ## Disciplines
+
+
+
+| Acceleration | Skidpad | Autocross & Trackdrive |
+| :-------: | :-----------: | :------------------:|
+| ![Acceleration](Acceleration.PNG) | ![Skidpad](Skidpad.PNG) | ![Trackdrive](Trackdrive.PNG) | 
+|                  |             |     |
