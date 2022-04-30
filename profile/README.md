@@ -32,7 +32,11 @@ Formula Student is a design competition in which students compete with a formula
 
 ## Disciplines
 
-
+<table border width=40%>
+    <td> <img src="Acceleration.PNG" width="260"/> </td>
+    <td> <img src="Skidpad.PNG"  width="260"/> </td>
+    <td> <img src="Trackdrive.PNG" width="260"/> </td>
+</table>
 
 | **Acceleration**            | **Skidpad**                 | **Autocross & Trackdrive** |
 | :-------------------------: | :-------------------------: | :-------------------------:|
