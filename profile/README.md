@@ -78,6 +78,6 @@ Formula Student is a design competition in which students compete with a formula
  
 ##
 
-<p align="center"> <img src="copyright-line.png" width="10"/> <small> 2022 Mainfranken-Racing. Alle Rechte vorbehalten. </small> </p>
+<p align="center"> <img src="copyright-line.png" width="10"/> <i> 2022 Mainfranken-Racing. Alle Rechte vorbehalten. </i> </p>
  
     
