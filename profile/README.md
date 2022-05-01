@@ -61,10 +61,14 @@ Formula Student is a design competition in which students compete with a formula
  
 ## Social Media
 
+<p align="center">To stay up to date follow us on our social media channels.</p>
+
 <table border="0"><tr>
     <td> <img src="stadtgalerie.jpg" align="left" width="400"/> </td>
     <td> <img src="herbst.jpg" align="right" width="400"/> </td>
  </tr></table>
  
+ <a href= "https://www.instagram.com/mainfranken_racing/"> <img src="instagram-line.png" align="left" width="15"/> </a>
+ <a href= "https://de-de.facebook.com/MFRMainfrankenRacing/"> <img src="facebook-fill.png" align="left" width="15"/> </a>
  
     
