@@ -59,3 +59,12 @@ Formula Student is a design competition in which students compete with a formula
  
  <p align="center"> Overall: 1000 points </p>
  
+## Social Media
+
+<table border="0"><tr>
+    <td> <img src="stadtgalerie.jpg" align="left" width="400"/> </td>
+    <td> <img src="herbst.jpg" align="right" width="400"/> </td>
+ </tr></table>
+ 
+ 
+    
