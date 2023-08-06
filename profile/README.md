@@ -1,7 +1,7 @@
 
 > ⚠️ **Attention**
 >
-> The Driverless Documentation is available here: https://mfr-driverless.github.io/documentation/general/Guidelines/
+> The Driverless Documentation is available here: https://mfr-driverless.github.io/documentation/
 
 <img src="MFR_Logo-negativ.png" align="right" width="200"/>
 
