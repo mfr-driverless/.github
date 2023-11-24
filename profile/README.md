@@ -2,6 +2,7 @@
 > ⚠️ **Attention**
 >
 > The Driverless Documentation is available here: https://mfr-driverless.github.io/documentation/
+> The Project Management is on plane.so: https://app.plane.so/mfr-driverless/projects/
 
 <img src="MFR_Logo-negativ.png" align="right" width="200"/>
 
