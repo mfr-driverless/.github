@@ -9,7 +9,7 @@
 
 # Mainfranken Racing e.V.  
 <table border="0"><tr>
-    <td> <img src="MF13.jpg" align="left" width="400"/> </td>
+    <td> <img src="../MF13.jpg" align="left" width="400"/> </td>
     <td> <img src="MF13_2.jpg" align="right" width="400"/> </td>
  </tr></table>
     
