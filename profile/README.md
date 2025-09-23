@@ -9,8 +9,8 @@
 
 # Mainfranken Racing e.V.  
 <table border="0"><tr>
-    <td> <img src="../MF17_pit.jpeg" align="left" width="400"/> </td>
-    <td> <img src="../MF17_with_driver.jpeg" align="right" width="400"/> </td>
+    <td> <img src="../MF17_pit.jpeg" align="left" width="500"/> </td>
+    <td> <img src="../MF17_with_driver.jpeg" align="right" width="500"/> </td>
  </tr></table>
     
 
@@ -79,8 +79,8 @@ Formula Student is a design competition in which students compete with a formula
 </p> </br>
 
 <table border="0"><tr>
-    <td> <img src="../MF17_driver_accel.jpeg" align="left" width="400"/> </td>
-    <td> <img src="../MF17_dv.jpeg" align="right" width="400"/> </td>
+    <td> <img src="../MF17_driver_accel.jpeg" align="left" width="500"/> </td>
+    <td> <img src="../MF17_dv.jpeg" align="right" width="500"/> </td>
  </tr></table>
  
 ##
