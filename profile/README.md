@@ -44,10 +44,10 @@ The Driverless (DV) category in Formula Student focuses on autonomous race cars 
 <table border="0" width="270">
     <tr>
         <th> MF16 </th> 
-        <th> MF17 </th
+        <th> MF17 </th>
         <th> MF18 </th></tr>
     <tr> 
-        <td> <img src="../MF16_dv_accel_sideview" width="270"/> </td>
+        <td> <img src="../MF16_dv_accel_sideview.jpeg" width="270"/> </td>
         <td> <img src="../MF17_dv_accel_sideview.jpeg"  width="270"/> </td> 
     </tr>
     <tr> 
