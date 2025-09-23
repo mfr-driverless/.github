@@ -38,7 +38,7 @@ Formula Student is a design competition in which students compete with a formula
 
 <br clear="all"/>
 
-### Driverless
+## Driverless
 <img src="../MF17_driverless.jpeg" align="left" width="400"/>
 The Driverless (DV) category in Formula Student focuses on autonomous race cars that can complete all disciplines without a driver. At Mainfranken Racing e.V., this is achieved through the development of advanced sensor systems, precise actuators, and intelligent software. Together, these components enable the car to perceive its environment, plan its path and navigate the track fully autonomously.
 
