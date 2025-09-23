@@ -34,11 +34,13 @@ This season we made the switch to build a race car that drives autonomously. <br
 
 ## Formula Student
 <img src="../FSG2024.jpeg" align="left" width="400"/> 
-Formula Student is a design competition in which students compete with a formula racing car they have designed and built themselves. They follow a common set of rules for the design, which are published annually by the Society of Automotive Engineers. The first Formula Student competition was held in Michigan in 1981. In Germany, Formula Student has been organized every year since 2006 by the VDI - Association of German Engineers and takes place at the Hockenheimring. Through the diverse judging in Formula Student, the team that has the best overall package of design, racing performance, financial planning and sales arguments wins. The teams meet at the events to present their work to a panel of experts from the motorsport, automotive and supplier industries. Worldwide, there are more than 500 teams competing at professionally organized Formula Student events. 
+Formula Student is a design competition in which students compete with a formula racing car they have designed and built themselves. They follow a common set of rules for the design, which are published annually by the Society of Automotive Engineers. The first Formula Student competition was held in Michigan in 1981. In Germany, Formula Student has been organized every year since 2006 by the VDI - Association of German Engineers and takes place at the Hockenheimring. Through the diverse judging in Formula Student, the team that has the best overall package of design, racing performance, financial planning and sales arguments wins. The teams meet at the events to present their work to a panel of experts from the motorsport, automotive and supplier industries. Worldwide, there are more than 500 teams competing at professionally organized Formula Student events.
 
+### Driverless
+<img src="../MF17_driverless.jpeg" align="left" width="400"/>
+The Driverless category in Formula Student focuses on autonomous race cars that can complete all disciplines without a driver. At Mainfranken Racing e.V., this is achieved through the development of advanced sensor systems, precise actuators, and intelligent software. Together, these components enable the car to perceive its environment, plan its path and navigate the track fully autonomously.
 
 ### Disciplines
-
 <table border="0" width="270">
     <tr>
         <th> Acceleration </th> 
