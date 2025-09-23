@@ -54,8 +54,8 @@ The Driverless (DV) category in Formula Student focuses on autonomous race cars 
         <td> <img src="../loading.jpg"  width="270"/> </td> 
     </tr>
     <tr> 
-        <td width="300"> FSCzech DV Overall 3 </br> FSG DV Overall 12</td>
-        <td width="300"> FSCzech DV Overall 7 </br> FSG DV Overall 12  </br> FSItaly DV Overall 1  </td>
+        <td width="300"> FSCzech 3th DV Overall  </br> FSG 12th DV Overall </td>
+        <td width="300"> FSCzech 7th DV Overall </br> FSG 12th DV Overall  </br> FSItaly 1st DV Overall </td>
         <td width="300"> In Progress ... </td> 
     </tr>
 </table>
