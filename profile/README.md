@@ -19,7 +19,7 @@
 <img src="../helm.jpg" align="left" width="150"/><br/><br/><br/>
 Our club was founded in 2006 by several motor sports enthusiastic students. One year later, the first vehicle was completed. Since then, every year we build a functional race car and participate in international competitions. 
 In the 15 years that our club has existed, we have implemented many changes and innovations. For example, we competed with a gasoline engine for the first 11 seasons and then decided to switch to the pioneering electric version. 
-This season we made the switch to build a race car that drives autonomously. <br/><br/><br/><br/>
+Since the 14th season, we have been developing our autonomous system, with the MF16 being the first driverless car from our team to compete at an event. <br/><br/><br/><br/>
 
 ### Our Motivation
 <img src="../heart-pulse-line.png" align="left" width="15"/> Establish diverse and valuable contacts with industry. (internships, diploma thesis, career entry) 
@@ -34,7 +34,7 @@ This season we made the switch to build a race car that drives autonomously. <br
 
 ## Formula Student
 <img src="../FSG2024.jpeg" align="left" width="400"/> 
-Formula Student is a design competition in which students compete with a formula racing car they have designed and built themselves. They follow a common set of rules for the design, which are published annually by the Society of Automotive Engineers. The first Formula Student competition was held in Michigan in 1981. In Germany, Formula Student has been organized every year since 2006 by the VDI - Association of German Engineers and takes place at the Hockenheimring. Through the diverse judging in Formula Student, the team that has the best overall package of design, racing performance, financial planning and sales arguments wins. The teams meet at the events to present their work to a panel of experts from the motorsport, automotive and supplier industries. Worldwide, there are more than 500 teams competing at professionally organized Formula Student events.
+Formula Student is a design competition in which students compete with a formula racing car they have designed and built themselves. They follow a common set of rules for the design, which are published annually by the Society of Automotive Engineers. The first Formula Student competition was held in Michigan in 1981. In Germany, Formula Student has been organized every year since 2006 by the VDI - Association of German Engineers and takes place at the Hockenheimring. The team with the best overall package of design, performance, finances, and sales arguments wins. At events, teams present their work to experts from motorsport, automotive, and supplier industries, with over 500 teams competing worldwide.
 
 ### Driverless
 <img src="../MF17_driverless.jpeg" align="left" width="400"/>
